@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MCP.WebApi\\MCP.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Agent.ClientChat\\Agent.ClientChat.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
